@@ -1,0 +1,13 @@
+name: edss
+description: >-
+  EDSS (Expanded Disability Status Scale) calculator for Multiple Sclerosis
+  assessment. Based on the Neurostatus-EDSS™ standard (Kurtzke, 1983).
+version: 1.0.0
+homepage: https://github.com/atiweb/edss-in-flutter
+repository: https://github.com/atiweb/edss-in-flutter
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.24.0
